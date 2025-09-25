@@ -4,11 +4,11 @@ using PAS_APP.Models;
 
 namespace PAS_APP.Controllers
 {
-    public class HomeController : Controller
+    public class UserController : Controller
     {
-        private readonly ILogger<HomeController> _logger;
+        private readonly ILogger<UserController> _logger;
 
-        public HomeController(ILogger<HomeController> logger)
+        public UserController(ILogger<UserController> logger)
         {
             _logger = logger;
         }
@@ -18,7 +18,18 @@ namespace PAS_APP.Controllers
             return View();
         }
 
-        public IActionResult Privacy()
+        public IActionResult Filter()
+        {
+            return View();
+        }
+
+
+        public IActionResult Profile()
+        {
+            return View();
+        }
+
+        public IActionResult Form()
         {
             return View();
         }
