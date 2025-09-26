@@ -17,7 +17,13 @@
 
 <div class="container my-4">
     <h2 class="text-center mb-4">Form Đăng Ký Tuyển Dụng</h2>
-
+        <div class="text-center mt-2">
+            <p>
+                Link url :
+                <span id="pageUrl" class="text-primary" style="word-break: break-all;"></span>
+                <button class="btn btn-sm btn-outline-secondary ms-2" onclick="copyUrl()">Copy</button>
+            </p>
+        </div>
     <!-- Thêm asp-action, asp-controller nếu muốn POST về controller -->
     <form asp-action="" asp-controller="" method="post">
 
@@ -178,8 +184,25 @@
             <button type="submit" class="btn btn-primary px-5">Gửi đăng ký</button>
         </div>
     </form>
+
+
+       
 </div>
 
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
+    <script>
+        // Gán URL hiện tại vào span
+        document.getElementById("pageUrl").textContent = window.location.href;
+
+        // Hàm copy
+        function copyUrl() {
+            const url = document.getElementById("pageUrl").textContent;
+            navigator.clipboard.writeText(url).then(() => {
+                alert("Đã copy URL!");
+            }).catch(err => {
+                console.error("Không copy được: ", err);
+            });
+        }
+    </script>
 </body>
 </html>

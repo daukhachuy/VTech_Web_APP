@@ -8,5 +8,11 @@ namespace PAS_APP.Controllers
         {
             return View();
         }
+
+        public IActionResult Logout()
+        {
+            Console.WriteLine("Logout");
+            return View();
+        }
     }
 }
