@@ -7,56 +7,112 @@
       "RelativeMoniker": "D:0:0:{A364D60A-FCB8-4D50-8B68-E8440F73281D}|PAS_APP\\PAS_APP.csproj|solutionrelative:pas_app\\views\\forms\\frame1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A364D60A-FCB8-4D50-8B68-E8440F73281D}|PAS_APP\\PAS_APP.csproj|d:\\fpt\\ki8fpt\\exe201\\src_project\\pas_app\\views\\user\\form.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A364D60A-FCB8-4D50-8B68-E8440F73281D}|PAS_APP\\PAS_APP.csproj|solutionrelative:pas_app\\views\\user\\form.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A364D60A-FCB8-4D50-8B68-E8440F73281D}|PAS_APP\\PAS_APP.csproj|d:\\fpt\\ki8fpt\\exe201\\src_project\\pas_app\\controllers\\formscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A364D60A-FCB8-4D50-8B68-E8440F73281D}|PAS_APP\\PAS_APP.csproj|solutionrelative:pas_app\\controllers\\formscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A364D60A-FCB8-4D50-8B68-E8440F73281D}|PAS_APP\\PAS_APP.csproj|d:\\fpt\\ki8fpt\\exe201\\src_project\\pas_app\\views\\user\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A364D60A-FCB8-4D50-8B68-E8440F73281D}|PAS_APP\\PAS_APP.csproj|solutionrelative:pas_app\\views\\user\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A364D60A-FCB8-4D50-8B68-E8440F73281D}|PAS_APP\\PAS_APP.csproj|d:\\fpt\\ki8fpt\\exe201\\src_project\\pas_app\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A364D60A-FCB8-4D50-8B68-E8440F73281D}|PAS_APP\\PAS_APP.csproj|solutionrelative:pas_app\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A364D60A-FCB8-4D50-8B68-E8440F73281D}|PAS_APP\\PAS_APP.csproj|d:\\fpt\\ki8fpt\\exe201\\src_project\\pas_app\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A364D60A-FCB8-4D50-8B68-E8440F73281D}|PAS_APP\\PAS_APP.csproj|solutionrelative:pas_app\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A364D60A-FCB8-4D50-8B68-E8440F73281D}|PAS_APP\\PAS_APP.csproj|d:\\fpt\\ki8fpt\\exe201\\src_project\\pas_app\\views\\user\\filter.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A364D60A-FCB8-4D50-8B68-E8440F73281D}|PAS_APP\\PAS_APP.csproj|solutionrelative:pas_app\\views\\user\\filter.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A364D60A-FCB8-4D50-8B68-E8440F73281D}|PAS_APP\\PAS_APP.csproj|d:\\fpt\\ki8fpt\\exe201\\src_project\\pas_app\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A364D60A-FCB8-4D50-8B68-E8440F73281D}|PAS_APP\\PAS_APP.csproj|solutionrelative:pas_app\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A364D60A-FCB8-4D50-8B68-E8440F73281D}|PAS_APP\\PAS_APP.csproj|d:\\fpt\\ki8fpt\\exe201\\src_project\\pas_app\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A364D60A-FCB8-4D50-8B68-E8440F73281D}|PAS_APP\\PAS_APP.csproj|solutionrelative:pas_app\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A364D60A-FCB8-4D50-8B68-E8440F73281D}|PAS_APP\\PAS_APP.csproj|d:\\fpt\\ki8fpt\\exe201\\src_project\\pas_app\\views\\user\\messages.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A364D60A-FCB8-4D50-8B68-E8440F73281D}|PAS_APP\\PAS_APP.csproj|solutionrelative:pas_app\\views\\user\\messages.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A364D60A-FCB8-4D50-8B68-E8440F73281D}|PAS_APP\\PAS_APP.csproj|d:\\fpt\\ki8fpt\\exe201\\src_project\\pas_app\\views\\account\\signin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A364D60A-FCB8-4D50-8B68-E8440F73281D}|PAS_APP\\PAS_APP.csproj|solutionrelative:pas_app\\views\\account\\signin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A364D60A-FCB8-4D50-8B68-E8440F73281D}|PAS_APP\\PAS_APP.csproj|d:\\fpt\\ki8fpt\\exe201\\src_project\\pas_app\\views\\user\\userhome.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A364D60A-FCB8-4D50-8B68-E8440F73281D}|PAS_APP\\PAS_APP.csproj|solutionrelative:pas_app\\views\\user\\userhome.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A364D60A-FCB8-4D50-8B68-E8440F73281D}|PAS_APP\\PAS_APP.csproj|d:\\fpt\\ki8fpt\\exe201\\src_project\\pas_app\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{A364D60A-FCB8-4D50-8B68-E8440F73281D}|PAS_APP\\PAS_APP.csproj|solutionrelative:pas_app\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A364D60A-FCB8-4D50-8B68-E8440F73281D}|PAS_APP\\PAS_APP.csproj|d:\\fpt\\ki8fpt\\exe201\\src_project\\pas_app\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{A364D60A-FCB8-4D50-8B68-E8440F73281D}|PAS_APP\\PAS_APP.csproj|solutionrelative:pas_app\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{A364D60A-FCB8-4D50-8B68-E8440F73281D}|PAS_APP\\PAS_APP.csproj|d:\\fpt\\ki8fpt\\exe201\\src_project\\pas_app\\views\\user\\form.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A364D60A-FCB8-4D50-8B68-E8440F73281D}|PAS_APP\\PAS_APP.csproj|solutionrelative:pas_app\\views\\user\\form.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A364D60A-FCB8-4D50-8B68-E8440F73281D}|PAS_APP\\PAS_APP.csproj|d:\\fpt\\ki8fpt\\exe201\\src_project\\pas_app\\views\\user\\userhome.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A364D60A-FCB8-4D50-8B68-E8440F73281D}|PAS_APP\\PAS_APP.csproj|solutionrelative:pas_app\\views\\user\\userhome.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A364D60A-FCB8-4D50-8B68-E8440F73281D}|PAS_APP\\PAS_APP.csproj|d:\\fpt\\ki8fpt\\exe201\\src_project\\pas_app\\models\\form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A364D60A-FCB8-4D50-8B68-E8440F73281D}|PAS_APP\\PAS_APP.csproj|solutionrelative:pas_app\\models\\form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A364D60A-FCB8-4D50-8B68-E8440F73281D}|PAS_APP\\PAS_APP.csproj|d:\\fpt\\ki8fpt\\exe201\\src_project\\pas_app\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A364D60A-FCB8-4D50-8B68-E8440F73281D}|PAS_APP\\PAS_APP.csproj|solutionrelative:pas_app\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A364D60A-FCB8-4D50-8B68-E8440F73281D}|PAS_APP\\PAS_APP.csproj|d:\\fpt\\ki8fpt\\exe201\\src_project\\pas_app\\controllers\\formscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A364D60A-FCB8-4D50-8B68-E8440F73281D}|PAS_APP\\PAS_APP.csproj|solutionrelative:pas_app\\controllers\\formscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A364D60A-FCB8-4D50-8B68-E8440F73281D}|PAS_APP\\PAS_APP.csproj|d:\\fpt\\ki8fpt\\exe201\\src_project\\pas_app\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A364D60A-FCB8-4D50-8B68-E8440F73281D}|PAS_APP\\PAS_APP.csproj|solutionrelative:pas_app\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A364D60A-FCB8-4D50-8B68-E8440F73281D}|PAS_APP\\PAS_APP.csproj|d:\\fpt\\ki8fpt\\exe201\\src_project\\pas_app\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A364D60A-FCB8-4D50-8B68-E8440F73281D}|PAS_APP\\PAS_APP.csproj|solutionrelative:pas_app\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A364D60A-FCB8-4D50-8B68-E8440F73281D}|PAS_APP\\PAS_APP.csproj|d:\\fpt\\ki8fpt\\exe201\\src_project\\pas_app\\views\\account\\signin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A364D60A-FCB8-4D50-8B68-E8440F73281D}|PAS_APP\\PAS_APP.csproj|solutionrelative:pas_app\\views\\account\\signin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A364D60A-FCB8-4D50-8B68-E8440F73281D}|PAS_APP\\PAS_APP.csproj|d:\\fpt\\ki8fpt\\exe201\\src_project\\pas_app\\views\\account\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A364D60A-FCB8-4D50-8B68-E8440F73281D}|PAS_APP\\PAS_APP.csproj|solutionrelative:pas_app\\views\\account\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A364D60A-FCB8-4D50-8B68-E8440F73281D}|PAS_APP\\PAS_APP.csproj|d:\\fpt\\ki8fpt\\exe201\\src_project\\pas_app\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A364D60A-FCB8-4D50-8B68-E8440F73281D}|PAS_APP\\PAS_APP.csproj|solutionrelative:pas_app\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A364D60A-FCB8-4D50-8B68-E8440F73281D}|PAS_APP\\PAS_APP.csproj|d:\\fpt\\ki8fpt\\exe201\\src_project\\pas_app\\views\\user\\service.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A364D60A-FCB8-4D50-8B68-E8440F73281D}|PAS_APP\\PAS_APP.csproj|solutionrelative:pas_app\\views\\user\\service.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A364D60A-FCB8-4D50-8B68-E8440F73281D}|PAS_APP\\PAS_APP.csproj|d:\\fpt\\ki8fpt\\exe201\\src_project\\pas_app\\views\\user\\filter.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A364D60A-FCB8-4D50-8B68-E8440F73281D}|PAS_APP\\PAS_APP.csproj|solutionrelative:pas_app\\views\\user\\filter.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A364D60A-FCB8-4D50-8B68-E8440F73281D}|PAS_APP\\PAS_APP.csproj|d:\\fpt\\ki8fpt\\exe201\\src_project\\pas_app\\views\\user\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A364D60A-FCB8-4D50-8B68-E8440F73281D}|PAS_APP\\PAS_APP.csproj|solutionrelative:pas_app\\views\\user\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A364D60A-FCB8-4D50-8B68-E8440F73281D}|PAS_APP\\PAS_APP.csproj|d:\\fpt\\ki8fpt\\exe201\\src_project\\pas_app\\models\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A364D60A-FCB8-4D50-8B68-E8440F73281D}|PAS_APP\\PAS_APP.csproj|solutionrelative:pas_app\\models\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A364D60A-FCB8-4D50-8B68-E8440F73281D}|PAS_APP\\PAS_APP.csproj|d:\\fpt\\ki8fpt\\exe201\\src_project\\pas_app\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A364D60A-FCB8-4D50-8B68-E8440F73281D}|PAS_APP\\PAS_APP.csproj|solutionrelative:pas_app\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A364D60A-FCB8-4D50-8B68-E8440F73281D}|PAS_APP\\PAS_APP.csproj|d:\\fpt\\ki8fpt\\exe201\\src_project\\pas_app\\dao\\filterdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A364D60A-FCB8-4D50-8B68-E8440F73281D}|PAS_APP\\PAS_APP.csproj|solutionrelative:pas_app\\dao\\filterdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A364D60A-FCB8-4D50-8B68-E8440F73281D}|PAS_APP\\PAS_APP.csproj|d:\\fpt\\ki8fpt\\exe201\\src_project\\pas_app\\dao\\formdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A364D60A-FCB8-4D50-8B68-E8440F73281D}|PAS_APP\\PAS_APP.csproj|solutionrelative:pas_app\\dao\\formdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A364D60A-FCB8-4D50-8B68-E8440F73281D}|PAS_APP\\PAS_APP.csproj|d:\\fpt\\ki8fpt\\exe201\\src_project\\pas_app\\dao\\notificationdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A364D60A-FCB8-4D50-8B68-E8440F73281D}|PAS_APP\\PAS_APP.csproj|solutionrelative:pas_app\\dao\\notificationdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A364D60A-FCB8-4D50-8B68-E8440F73281D}|PAS_APP\\PAS_APP.csproj|d:\\fpt\\ki8fpt\\exe201\\src_project\\pas_app\\dao\\packagedao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A364D60A-FCB8-4D50-8B68-E8440F73281D}|PAS_APP\\PAS_APP.csproj|solutionrelative:pas_app\\dao\\packagedao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A364D60A-FCB8-4D50-8B68-E8440F73281D}|PAS_APP\\PAS_APP.csproj|d:\\fpt\\ki8fpt\\exe201\\src_project\\pas_app\\dao\\servicedao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A364D60A-FCB8-4D50-8B68-E8440F73281D}|PAS_APP\\PAS_APP.csproj|solutionrelative:pas_app\\dao\\servicedao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A364D60A-FCB8-4D50-8B68-E8440F73281D}|PAS_APP\\PAS_APP.csproj|d:\\fpt\\ki8fpt\\exe201\\src_project\\pas_app\\dao\\studentdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A364D60A-FCB8-4D50-8B68-E8440F73281D}|PAS_APP\\PAS_APP.csproj|solutionrelative:pas_app\\dao\\studentdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A364D60A-FCB8-4D50-8B68-E8440F73281D}|PAS_APP\\PAS_APP.csproj|d:\\fpt\\ki8fpt\\exe201\\src_project\\pas_app\\dao\\userdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A364D60A-FCB8-4D50-8B68-E8440F73281D}|PAS_APP\\PAS_APP.csproj|solutionrelative:pas_app\\dao\\userdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A364D60A-FCB8-4D50-8B68-E8440F73281D}|PAS_APP\\PAS_APP.csproj|d:\\fpt\\ki8fpt\\exe201\\src_project\\pas_app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A364D60A-FCB8-4D50-8B68-E8440F73281D}|PAS_APP\\PAS_APP.csproj|solutionrelative:pas_app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A364D60A-FCB8-4D50-8B68-E8440F73281D}|PAS_APP\\PAS_APP.csproj|d:\\fpt\\ki8fpt\\exe201\\src_project\\pas_app\\dbcontext\\vtechdatabasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A364D60A-FCB8-4D50-8B68-E8440F73281D}|PAS_APP\\PAS_APP.csproj|solutionrelative:pas_app\\dbcontext\\vtechdatabasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A364D60A-FCB8-4D50-8B68-E8440F73281D}|PAS_APP\\PAS_APP.csproj|d:\\fpt\\ki8fpt\\exe201\\src_project\\pas_app\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A364D60A-FCB8-4D50-8B68-E8440F73281D}|PAS_APP\\PAS_APP.csproj|solutionrelative:pas_app\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A364D60A-FCB8-4D50-8B68-E8440F73281D}|PAS_APP\\PAS_APP.csproj|d:\\fpt\\ki8fpt\\exe201\\src_project\\pas_app\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A364D60A-FCB8-4D50-8B68-E8440F73281D}|PAS_APP\\PAS_APP.csproj|solutionrelative:pas_app\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A364D60A-FCB8-4D50-8B68-E8440F73281D}|PAS_APP\\PAS_APP.csproj|d:\\fpt\\ki8fpt\\exe201\\src_project\\pas_app\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -65,14 +121,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{A364D60A-FCB8-4D50-8B68-E8440F73281D}|PAS_APP\\PAS_APP.csproj|d:\\fpt\\ki8fpt\\exe201\\src_project\\pas_app\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A364D60A-FCB8-4D50-8B68-E8440F73281D}|PAS_APP\\PAS_APP.csproj|solutionrelative:pas_app\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A364D60A-FCB8-4D50-8B68-E8440F73281D}|PAS_APP\\PAS_APP.csproj|d:\\fpt\\ki8fpt\\exe201\\src_project\\pas_app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A364D60A-FCB8-4D50-8B68-E8440F73281D}|PAS_APP\\PAS_APP.csproj|solutionrelative:pas_app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A364D60A-FCB8-4D50-8B68-E8440F73281D}|PAS_APP\\PAS_APP.csproj|d:\\fpt\\ki8fpt\\exe201\\src_project\\pas_app\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{A364D60A-FCB8-4D50-8B68-E8440F73281D}|PAS_APP\\PAS_APP.csproj|solutionrelative:pas_app\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A364D60A-FCB8-4D50-8B68-E8440F73281D}|PAS_APP\\PAS_APP.csproj|d:\\fpt\\ki8fpt\\exe201\\src_project\\pas_app\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -86,7 +134,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 16,
+          "SelectedChildIndex": 29,
           "Children": [
             {
               "$type": "Bookmark",
@@ -154,20 +202,176 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form.cs",
+              "DocumentMoniker": "D:\\FPT\\Ki8FPT\\EXE201\\SRC_PROJECT\\PAS_APP\\Models\\Form.cs",
+              "RelativeDocumentMoniker": "PAS_APP\\Models\\Form.cs",
+              "ToolTip": "D:\\FPT\\Ki8FPT\\EXE201\\SRC_PROJECT\\PAS_APP\\Models\\Form.cs",
+              "RelativeToolTip": "PAS_APP\\Models\\Form.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAA3wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T13:25:36.192Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Logout.cshtml",
+              "DocumentMoniker": "D:\\FPT\\Ki8FPT\\EXE201\\SRC_PROJECT\\PAS_APP\\Views\\Account\\Logout.cshtml",
+              "RelativeDocumentMoniker": "PAS_APP\\Views\\Account\\Logout.cshtml",
+              "ToolTip": "D:\\FPT\\Ki8FPT\\EXE201\\SRC_PROJECT\\PAS_APP\\Views\\Account\\Logout.cshtml",
+              "RelativeToolTip": "PAS_APP\\Views\\Account\\Logout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-26T13:16:18.626Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Service.cshtml",
+              "DocumentMoniker": "D:\\FPT\\Ki8FPT\\EXE201\\SRC_PROJECT\\PAS_APP\\Views\\User\\Service.cshtml",
+              "RelativeDocumentMoniker": "PAS_APP\\Views\\User\\Service.cshtml",
+              "ToolTip": "D:\\FPT\\Ki8FPT\\EXE201\\SRC_PROJECT\\PAS_APP\\Views\\User\\Service.cshtml",
+              "RelativeToolTip": "PAS_APP\\Views\\User\\Service.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAACEAAABqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-26T13:01:28.373Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Service.cs",
+              "DocumentMoniker": "D:\\FPT\\Ki8FPT\\EXE201\\SRC_PROJECT\\PAS_APP\\Models\\Service.cs",
+              "RelativeDocumentMoniker": "PAS_APP\\Models\\Service.cs",
+              "ToolTip": "D:\\FPT\\Ki8FPT\\EXE201\\SRC_PROJECT\\PAS_APP\\Models\\Service.cs",
+              "RelativeToolTip": "PAS_APP\\Models\\Service.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T12:54:42.624Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "FilterDao.cs",
+              "DocumentMoniker": "D:\\FPT\\Ki8FPT\\EXE201\\SRC_PROJECT\\PAS_APP\\DAO\\FilterDao.cs",
+              "RelativeDocumentMoniker": "PAS_APP\\DAO\\FilterDao.cs",
+              "ToolTip": "D:\\FPT\\Ki8FPT\\EXE201\\SRC_PROJECT\\PAS_APP\\DAO\\FilterDao.cs",
+              "RelativeToolTip": "PAS_APP\\DAO\\FilterDao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T12:51:32.665Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "FormDao.cs",
+              "DocumentMoniker": "D:\\FPT\\Ki8FPT\\EXE201\\SRC_PROJECT\\PAS_APP\\DAO\\FormDao.cs",
+              "RelativeDocumentMoniker": "PAS_APP\\DAO\\FormDao.cs",
+              "ToolTip": "D:\\FPT\\Ki8FPT\\EXE201\\SRC_PROJECT\\PAS_APP\\DAO\\FormDao.cs",
+              "RelativeToolTip": "PAS_APP\\DAO\\FormDao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T12:51:23.271Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "NotificationDao.cs",
+              "DocumentMoniker": "D:\\FPT\\Ki8FPT\\EXE201\\SRC_PROJECT\\PAS_APP\\DAO\\NotificationDao.cs",
+              "RelativeDocumentMoniker": "PAS_APP\\DAO\\NotificationDao.cs",
+              "ToolTip": "D:\\FPT\\Ki8FPT\\EXE201\\SRC_PROJECT\\PAS_APP\\DAO\\NotificationDao.cs",
+              "RelativeToolTip": "PAS_APP\\DAO\\NotificationDao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T12:51:08.925Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "PackageDao.cs",
+              "DocumentMoniker": "D:\\FPT\\Ki8FPT\\EXE201\\SRC_PROJECT\\PAS_APP\\DAO\\PackageDao.cs",
+              "RelativeDocumentMoniker": "PAS_APP\\DAO\\PackageDao.cs",
+              "ToolTip": "D:\\FPT\\Ki8FPT\\EXE201\\SRC_PROJECT\\PAS_APP\\DAO\\PackageDao.cs",
+              "RelativeToolTip": "PAS_APP\\DAO\\PackageDao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T12:50:52.283Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ServiceDao.cs",
+              "DocumentMoniker": "D:\\FPT\\Ki8FPT\\EXE201\\SRC_PROJECT\\PAS_APP\\DAO\\ServiceDao.cs",
+              "RelativeDocumentMoniker": "PAS_APP\\DAO\\ServiceDao.cs",
+              "ToolTip": "D:\\FPT\\Ki8FPT\\EXE201\\SRC_PROJECT\\PAS_APP\\DAO\\ServiceDao.cs",
+              "RelativeToolTip": "PAS_APP\\DAO\\ServiceDao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T12:50:30.853Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "StudentDao.cs",
+              "DocumentMoniker": "D:\\FPT\\Ki8FPT\\EXE201\\SRC_PROJECT\\PAS_APP\\DAO\\StudentDao.cs",
+              "RelativeDocumentMoniker": "PAS_APP\\DAO\\StudentDao.cs",
+              "ToolTip": "D:\\FPT\\Ki8FPT\\EXE201\\SRC_PROJECT\\PAS_APP\\DAO\\StudentDao.cs",
+              "RelativeToolTip": "PAS_APP\\DAO\\StudentDao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T12:50:18.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "UserDao.cs",
+              "DocumentMoniker": "D:\\FPT\\Ki8FPT\\EXE201\\SRC_PROJECT\\PAS_APP\\DAO\\UserDao.cs",
+              "RelativeDocumentMoniker": "PAS_APP\\DAO\\UserDao.cs",
+              "ToolTip": "D:\\FPT\\Ki8FPT\\EXE201\\SRC_PROJECT\\PAS_APP\\DAO\\UserDao.cs",
+              "RelativeToolTip": "PAS_APP\\DAO\\UserDao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T12:50:01.918Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "VtechDatabaseContext.cs",
+              "DocumentMoniker": "D:\\FPT\\Ki8FPT\\EXE201\\SRC_PROJECT\\PAS_APP\\DBContext\\VtechDatabaseContext.cs",
+              "RelativeDocumentMoniker": "PAS_APP\\DBContext\\VtechDatabaseContext.cs",
+              "ToolTip": "D:\\FPT\\Ki8FPT\\EXE201\\SRC_PROJECT\\PAS_APP\\DBContext\\VtechDatabaseContext.cs",
+              "RelativeToolTip": "PAS_APP\\DBContext\\VtechDatabaseContext.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAADwvwcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T12:46:05.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "D:\\FPT\\Ki8FPT\\EXE201\\SRC_PROJECT\\PAS_APP\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "PAS_APP\\Models\\ErrorViewModel.cs",
+              "ToolTip": "D:\\FPT\\Ki8FPT\\EXE201\\SRC_PROJECT\\PAS_APP\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "PAS_APP\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T12:42:40.041Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Frame1.cshtml",
               "DocumentMoniker": "D:\\FPT\\Ki8FPT\\EXE201\\SRC_PROJECT\\PAS_APP\\Views\\Forms\\Frame1.cshtml",
               "RelativeDocumentMoniker": "PAS_APP\\Views\\Forms\\Frame1.cshtml",
               "ToolTip": "D:\\FPT\\Ki8FPT\\EXE201\\SRC_PROJECT\\PAS_APP\\Views\\Forms\\Frame1.cshtml",
               "RelativeToolTip": "PAS_APP\\Views\\Forms\\Frame1.cshtml",
-              "ViewState": "AgIAAJMAAAAAAAAAAAAowKcAAABRAAAAAAAAAA==",
+              "ViewState": "AgIAALUAAAAAAAAAAAAiwMcAAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-09-25T13:24:57.631Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "FormsController.cs",
               "DocumentMoniker": "D:\\FPT\\Ki8FPT\\EXE201\\SRC_PROJECT\\PAS_APP\\Controllers\\FormsController.cs",
               "RelativeDocumentMoniker": "PAS_APP\\Controllers\\FormsController.cs",
@@ -175,101 +379,83 @@
               "RelativeToolTip": "PAS_APP\\Controllers\\FormsController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-25T13:23:49.486Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-25T13:23:49.486Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 2,
               "Title": "site.js",
               "DocumentMoniker": "D:\\FPT\\Ki8FPT\\EXE201\\SRC_PROJECT\\PAS_APP\\wwwroot\\js\\site.js",
               "RelativeDocumentMoniker": "PAS_APP\\wwwroot\\js\\site.js",
               "ToolTip": "D:\\FPT\\Ki8FPT\\EXE201\\SRC_PROJECT\\PAS_APP\\wwwroot\\js\\site.js",
               "RelativeToolTip": "PAS_APP\\wwwroot\\js\\site.js",
-              "ViewState": "AgIAADkAAAAAAAAAAAAYwA4AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAGcAAAAAAAAAAAAcwHAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-09-25T07:42:09.977Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-25T07:42:09.977Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Messages.cshtml",
-              "DocumentMoniker": "D:\\FPT\\Ki8FPT\\EXE201\\SRC_PROJECT\\PAS_APP\\Views\\User\\Messages.cshtml",
-              "RelativeDocumentMoniker": "PAS_APP\\Views\\User\\Messages.cshtml",
-              "ToolTip": "D:\\FPT\\Ki8FPT\\EXE201\\SRC_PROJECT\\PAS_APP\\Views\\User\\Messages.cshtml",
-              "RelativeToolTip": "PAS_APP\\Views\\User\\Messages.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-25T07:06:01.405Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 14,
               "Title": "Profile.cshtml",
               "DocumentMoniker": "D:\\FPT\\Ki8FPT\\EXE201\\SRC_PROJECT\\PAS_APP\\Views\\User\\Profile.cshtml",
               "RelativeDocumentMoniker": "PAS_APP\\Views\\User\\Profile.cshtml",
               "ToolTip": "D:\\FPT\\Ki8FPT\\EXE201\\SRC_PROJECT\\PAS_APP\\Views\\User\\Profile.cshtml",
               "RelativeToolTip": "PAS_APP\\Views\\User\\Profile.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAzAAAAAAAAAA==",
+              "ViewState": "AgIAAJAAAAAAAAAAAAAiwBoBAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-24T14:41:03.273Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-24T14:41:03.273Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 13,
               "Title": "Filter.cshtml",
               "DocumentMoniker": "D:\\FPT\\Ki8FPT\\EXE201\\SRC_PROJECT\\PAS_APP\\Views\\User\\Filter.cshtml",
               "RelativeDocumentMoniker": "PAS_APP\\Views\\User\\Filter.cshtml",
               "ToolTip": "D:\\FPT\\Ki8FPT\\EXE201\\SRC_PROJECT\\PAS_APP\\Views\\User\\Filter.cshtml",
               "RelativeToolTip": "PAS_APP\\Views\\User\\Filter.cshtml",
-              "ViewState": "AgIAADkAAAAAAAAAAAAowFQAAAAGAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFQAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-24T14:40:45.293Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-24T14:40:45.293Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Form.cshtml",
               "DocumentMoniker": "D:\\FPT\\Ki8FPT\\EXE201\\SRC_PROJECT\\PAS_APP\\Views\\User\\Form.cshtml",
               "RelativeDocumentMoniker": "PAS_APP\\Views\\User\\Form.cshtml",
               "ToolTip": "D:\\FPT\\Ki8FPT\\EXE201\\SRC_PROJECT\\PAS_APP\\Views\\User\\Form.cshtml",
               "RelativeToolTip": "PAS_APP\\Views\\User\\Form.cshtml",
-              "ViewState": "AgIAABwAAAAAAAAAAAAowCMAAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAALMAAAAAAAAAAAAAAMQAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-24T14:39:38.565Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-24T14:39:38.565Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 24,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\FPT\\Ki8FPT\\EXE201\\SRC_PROJECT\\PAS_APP\\Program.cs",
               "RelativeDocumentMoniker": "PAS_APP\\Program.cs",
               "ToolTip": "D:\\FPT\\Ki8FPT\\EXE201\\SRC_PROJECT\\PAS_APP\\Program.cs",
               "RelativeToolTip": "PAS_APP\\Program.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-24T08:05:26.117Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 11,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\FPT\\Ki8FPT\\EXE201\\SRC_PROJECT\\PAS_APP\\appsettings.json",
               "RelativeDocumentMoniker": "PAS_APP\\appsettings.json",
               "ToolTip": "D:\\FPT\\Ki8FPT\\EXE201\\SRC_PROJECT\\PAS_APP\\appsettings.json",
               "RelativeToolTip": "PAS_APP\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-09-24T08:05:23.483Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 28,
               "Title": "Error.cshtml",
               "DocumentMoniker": "D:\\FPT\\Ki8FPT\\EXE201\\SRC_PROJECT\\PAS_APP\\Views\\Shared\\Error.cshtml",
               "RelativeDocumentMoniker": "PAS_APP\\Views\\Shared\\Error.cshtml",
@@ -281,7 +467,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 29,
               "Title": "_ValidationScriptsPartial.cshtml",
               "DocumentMoniker": "D:\\FPT\\Ki8FPT\\EXE201\\SRC_PROJECT\\PAS_APP\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
               "RelativeDocumentMoniker": "PAS_APP\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
@@ -293,7 +479,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 27,
               "Title": "site.css",
               "DocumentMoniker": "D:\\FPT\\Ki8FPT\\EXE201\\SRC_PROJECT\\PAS_APP\\wwwroot\\css\\site.css",
               "RelativeDocumentMoniker": "PAS_APP\\wwwroot\\css\\site.css",
@@ -301,25 +487,23 @@
               "RelativeToolTip": "PAS_APP\\wwwroot\\css\\site.css",
               "ViewState": "AgIAAKsCAAAAAAAAAAAYwL4CAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-09-24T07:49:57.051Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-24T07:49:57.051Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "D:\\FPT\\Ki8FPT\\EXE201\\SRC_PROJECT\\PAS_APP\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "PAS_APP\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "D:\\FPT\\Ki8FPT\\EXE201\\SRC_PROJECT\\PAS_APP\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "PAS_APP\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAD4AAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-24T06:48:49.213Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-24T06:48:49.213Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 30,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "D:\\FPT\\Ki8FPT\\EXE201\\SRC_PROJECT\\PAS_APP\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "PAS_APP\\Views\\_ViewStart.cshtml",
@@ -331,7 +515,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 16,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "D:\\FPT\\Ki8FPT\\EXE201\\SRC_PROJECT\\PAS_APP\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "PAS_APP\\Views\\_ViewImports.cshtml",
@@ -339,8 +523,7 @@
               "RelativeToolTip": "PAS_APP\\Views\\_ViewImports.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-24T06:48:41.108Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-24T06:48:41.108Z"
             },
             {
               "$type": "Document",
@@ -350,49 +533,45 @@
               "RelativeDocumentMoniker": "PAS_APP\\Controllers\\UserController.cs",
               "ToolTip": "D:\\FPT\\Ki8FPT\\EXE201\\SRC_PROJECT\\PAS_APP\\Controllers\\UserController.cs",
               "RelativeToolTip": "PAS_APP\\Controllers\\UserController.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAA1wCAAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwCYAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-24T06:38:17.323Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-24T06:38:17.323Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 5,
               "Title": "AccountController.cs",
               "DocumentMoniker": "D:\\FPT\\Ki8FPT\\EXE201\\SRC_PROJECT\\PAS_APP\\Controllers\\AccountController.cs",
               "RelativeDocumentMoniker": "PAS_APP\\Controllers\\AccountController.cs",
               "ToolTip": "D:\\FPT\\Ki8FPT\\EXE201\\SRC_PROJECT\\PAS_APP\\Controllers\\AccountController.cs",
               "RelativeToolTip": "PAS_APP\\Controllers\\AccountController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-24T06:37:25.755Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-24T06:37:25.755Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 9,
               "Title": "Signin.cshtml",
               "DocumentMoniker": "D:\\FPT\\Ki8FPT\\EXE201\\SRC_PROJECT\\PAS_APP\\Views\\Account\\Signin.cshtml",
               "RelativeDocumentMoniker": "PAS_APP\\Views\\Account\\Signin.cshtml",
               "ToolTip": "D:\\FPT\\Ki8FPT\\EXE201\\SRC_PROJECT\\PAS_APP\\Views\\Account\\Signin.cshtml",
               "RelativeToolTip": "PAS_APP\\Views\\Account\\Signin.cshtml",
-              "ViewState": "AgIAADkAAAAAAAAAAAAAAEEAAABDAAAAAAAAAA==",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAEIAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-24T06:31:01.743Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-24T06:31:01.743Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 1,
               "Title": "UserHome.cshtml",
               "DocumentMoniker": "D:\\FPT\\Ki8FPT\\EXE201\\SRC_PROJECT\\PAS_APP\\Views\\User\\UserHome.cshtml",
               "RelativeDocumentMoniker": "PAS_APP\\Views\\User\\UserHome.cshtml",
               "ToolTip": "D:\\FPT\\Ki8FPT\\EXE201\\SRC_PROJECT\\PAS_APP\\Views\\User\\UserHome.cshtml",
               "RelativeToolTip": "PAS_APP\\Views\\User\\UserHome.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-24T06:29:26.057Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-24T06:29:26.057Z"
             }
           ]
         },

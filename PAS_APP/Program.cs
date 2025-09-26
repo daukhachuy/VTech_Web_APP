@@ -1,3 +1,6 @@
+using Microsoft.EntityFrameworkCore;
+using PAS_APP.DBContext;
+
 namespace PAS_APP
 {
     public class Program
@@ -8,6 +11,12 @@ namespace PAS_APP
 
             // Add services to the container.
             builder.Services.AddControllersWithViews();
+
+
+            builder.Services.AddDbContext<VtechDatabaseContext>(options =>
+                    options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnectionStringDB")));
+
+
 
             var app = builder.Build();
 

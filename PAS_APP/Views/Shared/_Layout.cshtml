@@ -30,43 +30,37 @@
                 <div class="sidebar-title">Profile Analysis System</div>
             </div>
             <nav class="sidebar-nav">
-                <a href="dashboard-modern.html" class="sidebar-item active">
+                <a asp-controller="User" asp-action="UserHome" class="sidebar-item active">
                     <div class="sidebar-icon">
                         <i class="fas fa-home"></i>
                     </div>
                     <span class="sidebar-text">Dashboard</span>
                 </a>
-                <a href="messages-modern.html" class="sidebar-item">
-                    <div class="sidebar-icon">
-                        <i class="fas fa-comments"></i>
-                    </div>
-                    <span class="sidebar-text">Messages</span>
-                </a>
-                <a href="ai-chat-modern.html" class="sidebar-item">
+                <a asp-controller="User" asp-action="Service" class="sidebar-item">
                     <div class="sidebar-icon">
                         <i class="fas fa-robot"></i>
                     </div>
                     <span class="sidebar-text">Service</span>
                 </a>
-                <a href="profile.html" class="sidebar-item">
+                <a asp-controller="User" asp-action="Form" class="sidebar-item">
                     <div class="sidebar-icon">
                         <i class="fa-solid fa-file-lines"></i>
                     </div>
                     <span class="sidebar-text">Form</span>
                 </a>
-                <a href="profile.html" class="sidebar-item">
+                <a asp-controller="User" asp-action="Filter" class="sidebar-item">
                     <div class="sidebar-icon">
                         <i class="fa-solid fa-filter"></i>
                     </div>
                     <span class="sidebar-text">Start Filter</span>
                 </a>
-                <a href="profile.html" class="sidebar-item">
+                <a asp-controller="User" asp-action="Profile" class="sidebar-item">
                     <div class="sidebar-icon">
                         <i class="fas fa-user"></i>
                     </div>
                     <span class="sidebar-text">Profile</span>
                 </a>
-                <button class="sidebar-item" onclick="logout()">
+                <button  class="sidebar-item" onclick="logout()">
                     <div class="sidebar-icon">
                         <i class="fas fa-sign-out-alt"></i>
                     </div>
